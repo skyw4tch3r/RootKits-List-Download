@@ -7,6 +7,7 @@ http://www.ussrback.com/UNIX/penetration/rootkits/
 
 https://github.com/Alifcccccc/Windows-Rootkits
 
+https://github.com/chokepoint/azazel 
 https://packetstormsecurity.com/files/125240/Azazel-Userland-Rootkit.html
 
 https://github.com/islamTaha12/Python-Rootkit
@@ -43,6 +44,7 @@ https://packetstormsecurity.com/files/118317/Linux-2.6-Kernel-proc-Rootkit-Backd
 
 https://packetstormsecurity.com/files/108286/KBeast-Kernel-Beast-Linux-Rootkit-2012.html
 
+https://github.com/chokepoint/Jynx2
 https://packetstormsecurity.com/files/110942/Jynx-Kit-Release-2.html
 
 https://packetstormsecurity.com/files/25071/_root_040.zip.html
@@ -151,3 +153,22 @@ https://github.com/dluengo/yarr
 
 https://github.com/NotALaser/trk
 
+https://github.com/NoviceLive/research-rootkit
+
+https://github.com/t0t3m/AFkit
+
+https://github.com/dsmatter/brootus
+
+http://github.com/kevinkoo001/rootkit
+
+https://github.com/nnedkov/swiss_army_rootkit
+
+https://github.com/David-Reguera-Garcia-Dreg/enyelkm
+
+https://github.com/m0hamed/lkm-rootkit
+
+https://github.com/elfmaster/skeksi_virus
+
+https://github.com/cranklin/cranky-data-virus
+
+https://github.com/mempodippy/cub3
