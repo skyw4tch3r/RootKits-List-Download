@@ -172,3 +172,7 @@ https://github.com/elfmaster/skeksi_virus
 https://github.com/cranklin/cranky-data-virus
 
 https://github.com/mempodippy/cub3
+
+https://github.com/bytecode77/r77-rootkit
+
+https://github.com/XShar/simple_rootkit_for_windows_fork_r77
