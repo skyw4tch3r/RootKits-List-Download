@@ -204,7 +204,24 @@ https://github.com/vrasneur/randkit
 
 https://github.com/trimpsyw/adore-ng
 
+https://github.com/David-Reguera-Garcia-Dreg/enyelkm
 
+https://github.com/falk3n/subversive
 
+https://github.com/jiayy/lkm-rootkit
 
+https://github.com/a7vinx/liinux
 
+https://github.com/hanj4096/wukong
+
+https://github.com/varshapaidi/Kernel_Rootkit
+
+https://github.com/kacheo/KernelRootkit
+
+https://github.com/dsmatter/brootus
+
+https://github.com/jarun/keysniffer
+
+https://github.com/PinkP4nther/Sutekh
+
+https://github.com/En14c/LilyOfTheValley
