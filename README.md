@@ -45,6 +45,9 @@ https://packetstormsecurity.com/files/118317/Linux-2.6-Kernel-proc-Rootkit-Backd
 https://packetstormsecurity.com/files/108286/KBeast-Kernel-Beast-Linux-Rootkit-2012.html
 
 https://github.com/chokepoint/Jynx2
+
+https://github.com/chokepoint/jynxkit
+
 https://packetstormsecurity.com/files/110942/Jynx-Kit-Release-2.html
 
 https://packetstormsecurity.com/files/25071/_root_040.zip.html
@@ -176,3 +179,32 @@ https://github.com/mempodippy/cub3
 https://github.com/bytecode77/r77-rootkit
 
 https://github.com/XShar/simple_rootkit_for_windows_fork_r77
+
+https://github.com/unix-thrust/beurk
+
+https://github.com/chokepoint/azazel
+
+https://github.com/f0rb1dd3n/Reptile
+
+https://github.com/trailofbits/krf
+
+https://github.com/jermeyyy/rooty
+
+https://github.com/croemheld/lkm-rootkit
+
+https://github.com/mncoppola/suterusu
+
+https://github.com/romeroperezabel/ARP-RootKit
+
+https://github.com/nurupo/rootkit
+
+https://github.com/deb0ch/toorkit
+
+https://github.com/vrasneur/randkit
+
+https://github.com/trimpsyw/adore-ng
+
+
+
+
+
