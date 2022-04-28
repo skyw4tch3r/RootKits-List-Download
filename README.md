@@ -1,6 +1,18 @@
 # RootKits-List-Download (Please contribute)
 This is the list of all rootkits found so far on github and other sites. 
 
+https://github.com/carloslack/KoviD
+
+https://github.com/HeapAllocate/sterben
+
+https://github.com/asuar078/raisin
+
+https://github.com/aesophor/satan
+
+https://github.com/RITRedteam/goofkit
+
+https://github.com/R3tr074/brokepkg
+
 https://github.com/jussihi/SMM-Rootkit
 
 https://github.com/loneicewolf/LOJAX
@@ -11,7 +23,7 @@ http://www.ussrback.com/UNIX/penetration/rootkits/
 
 https://github.com/Alifcccccc/Windows-Rootkits
 
-https://github.com/chokepoint/azazel 
+https://github.com/chokepoint/azazel
 https://packetstormsecurity.com/files/125240/Azazel-Userland-Rootkit.html
 
 https://github.com/islamTaha12/Python-Rootkit
