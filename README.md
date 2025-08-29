@@ -3,6 +3,8 @@ This is the list of all rootkits found so far on github and other sites.
 
 https://github.com/milabs/awesome-linux-rootkits
 
+https://github.com/nisay759/linux-rootkits
+
 https://github.com/jussihi/SMM-Rootkit
 
 https://github.com/loneicewolf/LOJAX
