@@ -233,3 +233,19 @@ https://github.com/jarun/keysniffer
 https://github.com/PinkP4nther/Sutekh
 
 https://github.com/En14c/LilyOfTheValley
+
+https://github.com/R3x/linux-rootkits
+
+https://github.com/R3tr074/brokepkg
+
+https://github.com/Zhang1933/linux-rootkit
+
+https://github.com/reveng007/reveng_rtkit
+
+https://codeberg.org/sw1tchbl4d3/generic-linux-rootkit
+
+https://github.com/alal4465/Win_Rootkit
+
+https://github.com/D4stiny/spectre
+
+https://github.com/XaFF-XaFF/Black-Angel-Rootkit
